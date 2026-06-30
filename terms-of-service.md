@@ -82,7 +82,7 @@ We may suspend or terminate your access to the App if you breach these Terms. Yo
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of [YOUR_COUNTRY], without regard to its conflict-of-law principles.
+These Terms are governed by the laws of USA , without regard to its conflict-of-law principles.
 
 ---
 
@@ -91,7 +91,7 @@ These Terms are governed by the laws of [YOUR_COUNTRY], without regard to its co
 For questions about these Terms, contact:
 
 **LastPuff Support**
-Email: [YOUR_EMAIL_HERE]
+Email:stunnerconsult@gmail.com
 
 ---
 
