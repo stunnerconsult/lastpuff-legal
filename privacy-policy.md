@@ -109,7 +109,7 @@ If we make material changes to this policy (for example, if we add cloud sync in
 If you have any questions about this Privacy Policy, please contact us at:
 
 **LastPuff Support**
-Email: [YOUR_EMAIL_HERE]
+Email:stunnerconsult@gmail.com
 
 ---
 
